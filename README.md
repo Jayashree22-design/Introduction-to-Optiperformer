@@ -36,7 +36,14 @@ The system is *instrumented* with:
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 ---
+
+## Tabulation
+
+<img width="906" height="1600" alt="image" src="https://github.com/user-attachments/assets/b169ebaf-daf8-4cf5-89c3-1ed076a6eeea" />
+
 ## Result
+
+<img width="1918" height="1078" alt="Screenshot 2026-07-24 084933" src="https://github.com/user-attachments/assets/8a2cb260-48d0-4bb2-b605-db085471c47a" />
 
 ---
 
